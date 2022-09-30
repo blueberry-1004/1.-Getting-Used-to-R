@@ -1,6 +1,6 @@
 ---
 title: "2. Estimates and ggplot2"
-author: "jsg"
+author: "vincent lee" 
 date: "Last compiled on `r format(Sys.time(), '%d %B, %Y %H:%M')`"
 output:
   html_document:
